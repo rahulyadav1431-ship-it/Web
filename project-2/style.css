@@ -1,0 +1,130 @@
+* {
+   
+    margin: 0px;
+    padding: 0px;
+
+}
+.top {
+    /*border:2px solid black;*/
+    height: 70px;
+    background-color: black;
+   
+   
+    
+}
+
+.logo {
+    
+   float: left;
+   margin: 20px;
+   color:aliceblue;
+}
+.nav {
+    /*border: 2px solid black;*/
+    float: right;
+    margin: 20px;
+    padding: 10px;
+    color:aliceblue;
+}
+.nav a{
+    padding: 10px;
+    font-size: 20px;
+    color:azure
+}
+
+.mid {
+    /* border:2px solid black;*/
+    height: 100px;
+    background-color: greenyellow;
+
+}
+.middle {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+.box {
+    /*border: 2px solid red;*/
+    height: 800px;
+
+}
+.left {
+    /*border: 2px solid black;*/
+    width: 400px;
+    height: 750px;
+    float: left;
+    position: fixed;
+}
+
+
+
+
+.info {
+    /*border: 2px solid black;*/
+    font-size: 30px;
+    margin-left: 60px;
+    
+}
+.info p{
+    padding: 10px;
+}
+.info h3 {
+    padding-left: 20px;
+}
+
+.right {
+
+    float: right;
+    /*border: 2px solid black;*/
+    height: 700px;
+    width: 850px;
+    margin: -55px;
+    margin-top: -750px;
+    margin-right: 70px;
+    overflow: scroll;
+    font-size: 30px;
+
+
+}
+
+.name{
+    text-align: center;
+    font-size: 50px;
+
+}
+.aside img {
+    margin-left: 300px;
+}
+
+.one {
+
+    
+    margin-left: 250px;
+    padding: 30px;
+   
+}
+.two {
+    text-align: center;
+   
+    
+}
+
+.three {
+    text-align: center;
+    
+}
+.three p{
+    padding: 10px;
+}
+.four {
+    text-align: center;
+}
+
+.five {
+    text-align: center;
+}
+
+.six {
+    text-align: center;
+}
